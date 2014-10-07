@@ -1,6 +1,6 @@
 package org.dang.vn;
 class MyClass {
 	public String getMessage() {
-		return "Hello github !!!";
+		return "Hello github !!! Fuck you";
 	}
 }
